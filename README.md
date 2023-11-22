@@ -2,15 +2,13 @@
 
 Expense tracker
 
-## Getting Started
+## Ghanges
 
-This project is a starting point for a Flutter application.
+Removed useMaterial3: true - Deprecated in newest update
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I wanted to do so much more with this app. I wanted to put repeated code in separate files,
+but had issues with putting labels in different class, since we didn't learn that yet,
+I wanted to personalise it, I wanted to change the $ to ISK, and other small changes
+but I decided to focus on the final assignment, so what you have here is just the code from the class,
+without many changes. I will go back to this and make it better in the future, but for now I'm just
+doing the bare necessities. Hope that is ok!
